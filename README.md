@@ -1,2 +1,3 @@
 # mssql-dba-scripts
-A compilation of SQL Server Database Administration Scripts.
+A compilation of useful SQL Server Database Admin Scripts.
+
